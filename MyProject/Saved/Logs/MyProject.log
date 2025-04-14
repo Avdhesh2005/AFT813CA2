@@ -1751,3 +1751,16 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2025.04.14-17.37.22:312][ 58]LogFab: Display: User logged in
 [2025.04.14-17.37.22:312][ 58]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.04.14-17.37.22:848][ 66]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-DRg73uQST0GSvmgKA2KayA-QtUIUrvMe0ue-JX9wWc4fw]
+[2025.04.14-17.39.04:902][795]LogDerivedDataCache: C:/Users/Avdhesh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.14-17.43.02:258][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 351.373291
+[2025.04.14-17.43.03:590][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-17.43.03:590][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 352.373291, Update Interval: 302.816254
+[2025.04.14-17.48.09:634][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.749451
+[2025.04.14-17.48.11:968][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-17.48.11:968][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 660.749939, Update Interval: 344.999542
+[2025.04.14-17.54.04:349][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.464661
+[2025.04.14-17.54.06:351][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-17.54.06:351][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1015.131287, Update Interval: 344.955597
+[2025.04.14-18.00.01:738][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1370.852539
+[2025.04.14-18.00.02:739][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.14-18.00.02:739][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1371.519287, Update Interval: 348.634308
